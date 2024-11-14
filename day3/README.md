@@ -1,3 +1,6 @@
+# Day3 
+
+
 ## Quiz1. 모든 약수 찾기 (Find divisor numbers)
 
 
