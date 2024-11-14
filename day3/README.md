@@ -1,10 +1,9 @@
 ## Quiz1. 모든 약수 찾기 (Find divisor numbers)
------
 
 
 변수 num의 모든 약수를 다 찾아서 출력하세요. 
 print numbers what is a divisor number 
-```
+```js 
 let num = 100; 
 for(;;){
     // ... 
@@ -14,12 +13,12 @@ for(;;){
 
 ---
 ## Quiz2. 소수 판별기(에라토스테네스의 체) 
------
+
 
 다음 요구사항을 만족하는 isPrimeNumber 함수를 완성하세요 
 + 함수 isPrimeNumber는 한 개의 매개변수 num을 제공받아 소수인지 판별합니다.
 + num이 소수라면 true, 아니면 false 반환  
-```
+```js 
 function isPrimeNumber(num){
     // 여기에 코드 작성 
 }
@@ -43,7 +42,7 @@ console.log(isPrimeNumber(12));
       + num1, num2 : 연산에 활용될 숫자
       + callback : 실제로 연산을 수행할 함수
    + callback 함수로 전달된 연산의 결과값을 콘솔에 출력하시오 
-```
+```js 
 function add(num1, num2){}
 
 function subtract(num1, num2){}
