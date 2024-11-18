@@ -10,4 +10,4 @@
 > 완강(Lessons Complete) : 11월 17일(2024) (17th, Nov)   
 > 미션 완수(Missions Complete) : 11월 28일(2024)  (28th, Nov)
 
-#### Latest updated : 2024-11-14 (~day7)
+#### Latest updated : 2024-11-18 (~day08)
